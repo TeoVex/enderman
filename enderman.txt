@@ -1,0 +1,7 @@
+enderware
+fakescanners
+jokes
+modern
+ransomwares
+rogues
+trojans
