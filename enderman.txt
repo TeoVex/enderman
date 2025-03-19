@@ -4,4 +4,5 @@ jokes
 modern
 ransomwares
 rogues
-trojans
+trojan
+https://github.com/enderman
